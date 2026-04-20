@@ -1,0 +1,12 @@
+title: Alex Sabaka Blog
+tagline: Personal GitHub Pages Blog
+description: Thoughts, notes, and updates.
+url: "https://alexsabaka.github.io"
+
+lang: en
+timezone: UTC
+
+theme: jekyll-theme-chirpy
+
+plugins:
+  - jekyll-include-cache
